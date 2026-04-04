@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.leticia.BookingTests
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.444 s - in com.leticia.BookingTests
